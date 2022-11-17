@@ -3,7 +3,7 @@ __________
 
 Passioné de developpement vous retrouverez tous mes projets ici !
 
-  - 📮 anthonyb.dev@gmail.com
+  - 📫 anthonyb.dev@gmail.com
   - 💻 **[LinkedIn]**
 
 ---
